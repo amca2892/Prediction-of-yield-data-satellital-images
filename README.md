@@ -1,1 +1,1 @@
-# Prediction-of-yield-data-satellitall-images
+# Prediction-of-yield-data-satellital-images
